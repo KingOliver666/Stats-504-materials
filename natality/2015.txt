@@ -1,0 +1,684 @@
+"Notes"	"County"	"County Code"	Births
+	"Baldwin County, AL"	"01003"	2344
+	"Calhoun County, AL"	"01015"	1400
+	"Etowah County, AL"	"01055"	1214
+	"Houston County, AL"	"01069"	1294
+	"Jefferson County, AL"	"01073"	8792
+	"Lee County, AL"	"01081"	1988
+	"Madison County, AL"	"01089"	4159
+	"Mobile County, AL"	"01097"	5663
+	"Montgomery County, AL"	"01101"	3129
+	"Morgan County, AL"	"01103"	1386
+	"Shelby County, AL"	"01117"	2399
+	"Tuscaloosa County, AL"	"01125"	2530
+	"Unidentified Counties, AL"	"01999"	23359
+	"Anchorage Borough, AK"	"02020"	4589
+	"Unidentified Counties, AK"	"02999"	6693
+	"Cochise County, AZ"	"04003"	1570
+	"Coconino County, AZ"	"04005"	1575
+	"Maricopa County, AZ"	"04013"	54736
+	"Mohave County, AZ"	"04015"	1852
+	"Navajo County, AZ"	"04017"	1542
+	"Pima County, AZ"	"04019"	11500
+	"Pinal County, AZ"	"04021"	4451
+	"Yavapai County, AZ"	"04025"	1876
+	"Yuma County, AZ"	"04027"	3017
+	"Unidentified Counties, AZ"	"04999"	3232
+	"Benton County, AR"	"05007"	3614
+	"Faulkner County, AR"	"05045"	1539
+	"Pulaski County, AR"	"05119"	5571
+	"Saline County, AR"	"05125"	1353
+	"Sebastian County, AR"	"05131"	1738
+	"Washington County, AR"	"05143"	3213
+	"Unidentified Counties, AR"	"05999"	21858
+	"Alameda County, CA"	"06001"	19434
+	"Butte County, CA"	"06007"	2442
+	"Contra Costa County, CA"	"06013"	12596
+	"El Dorado County, CA"	"06017"	1594
+	"Fresno County, CA"	"06019"	15359
+	"Humboldt County, CA"	"06023"	1441
+	"Imperial County, CA"	"06025"	3168
+	"Kern County, CA"	"06029"	13768
+	"Kings County, CA"	"06031"	2274
+	"Los Angeles County, CA"	"06037"	124641
+	"Madera County, CA"	"06039"	2225
+	"Marin County, CA"	"06041"	2288
+	"Merced County, CA"	"06047"	4104
+	"Monterey County, CA"	"06053"	6420
+	"Napa County, CA"	"06055"	1457
+	"Orange County, CA"	"06059"	37609
+	"Placer County, CA"	"06061"	3747
+	"Riverside County, CA"	"06065"	30491
+	"Sacramento County, CA"	"06067"	19423
+	"San Bernardino County, CA"	"06071"	30530
+	"San Diego County, CA"	"06073"	43942
+	"San Francisco County, CA"	"06075"	8972
+	"San Joaquin County, CA"	"06077"	9983
+	"San Luis Obispo County, CA"	"06079"	2668
+	"San Mateo County, CA"	"06081"	9037
+	"Santa Barbara County, CA"	"06083"	5673
+	"Santa Clara County, CA"	"06085"	23393
+	"Santa Cruz County, CA"	"06087"	2840
+	"Shasta County, CA"	"06089"	2073
+	"Solano County, CA"	"06095"	5131
+	"Sonoma County, CA"	"06097"	5015
+	"Stanislaus County, CA"	"06099"	7698
+	"Tulare County, CA"	"06107"	7411
+	"Ventura County, CA"	"06111"	10060
+	"Yolo County, CA"	"06113"	2402
+	"Unidentified Counties, CA"	"06999"	10439
+	"Adams County, CO"	"08001"	6761
+	"Arapahoe County, CO"	"08005"	7960
+	"Boulder County, CO"	"08013"	2900
+	"Denver County, CO"	"08031"	10056
+	"Douglas County, CO"	"08035"	3382
+	"El Paso County, CO"	"08041"	9458
+	"Jefferson County, CO"	"08059"	5882
+	"Larimer County, CO"	"08069"	3485
+	"Mesa County, CO"	"08077"	1739
+	"Pueblo County, CO"	"08101"	1794
+	"Weld County, CO"	"08123"	4339
+	"Unidentified Counties, CO"	"08999"	8825
+	"Fairfield County, CT"	"09001"	10118
+	"Hartford County, CT"	"09003"	9252
+	"Litchfield County, CT"	"09005"	1445
+	"Middlesex County, CT"	"09007"	1330
+	"New Haven County, CT"	"09009"	8773
+	"New London County, CT"	"09011"	2604
+	"Tolland County, CT"	"09013"	1127
+	"Windham County, CT"	"09015"	1097
+	"Kent County, DE"	"10001"	2186
+	"New Castle County, DE"	"10003"	6663
+	"Sussex County, DE"	"10005"	2317
+	"District of Columbia, DC"	"11001"	9578
+	"Alachua County, FL"	"12001"	2886
+	"Bay County, FL"	"12005"	2396
+	"Brevard County, FL"	"12009"	5246
+	"Broward County, FL"	"12011"	22311
+	"Charlotte County, FL"	"12015"	1031
+	"Citrus County, FL"	"12017"	1017
+	"Clay County, FL"	"12019"	2228
+	"Collier County, FL"	"12021"	3256
+	"Duval County, FL"	"12031"	13039
+	"Escambia County, FL"	"12033"	3902
+	"Hernando County, FL"	"12053"	1601
+	"Hillsborough County, FL"	"12057"	17568
+	"Indian River County, FL"	"12061"	1246
+	"Lake County, FL"	"12069"	3184
+	"Lee County, FL"	"12071"	6777
+	"Leon County, FL"	"12073"	3047
+	"Manatee County, FL"	"12081"	3469
+	"Marion County, FL"	"12083"	3584
+	"Martin County, FL"	"12085"	1262
+	"Miami-Dade County, FL"	"12086"	32438
+	"Okaloosa County, FL"	"12091"	2830
+	"Orange County, FL"	"12095"	16715
+	"Osceola County, FL"	"12097"	4183
+	"Palm Beach County, FL"	"12099"	14872
+	"Pasco County, FL"	"12101"	5105
+	"Pinellas County, FL"	"12103"	8745
+	"Polk County, FL"	"12105"	7483
+	"St. Johns County, FL"	"12109"	2157
+	"St. Lucie County, FL"	"12111"	3099
+	"Santa Rosa County, FL"	"12113"	1940
+	"Sarasota County, FL"	"12115"	2907
+	"Seminole County, FL"	"12117"	4555
+	"Volusia County, FL"	"12127"	4939
+	"Unidentified Counties, FL"	"12999"	13251
+	"Bartow County, GA"	"13015"	1304
+	"Bibb County, GA"	"13021"	2315
+	"Carroll County, GA"	"13045"	1522
+	"Chatham County, GA"	"13051"	4149
+	"Cherokee County, GA"	"13057"	2642
+	"Clarke County, GA"	"13059"	1376
+	"Clayton County, GA"	"13063"	3804
+	"Cobb County, GA"	"13067"	9658
+	"Columbia County, GA"	"13073"	1662
+	"Coweta County, GA"	"13077"	1586
+	"DeKalb County, GA"	"13089"	11095
+	"Douglas County, GA"	"13097"	1828
+	"Fayette County, GA"	"13113"	866
+	"Forsyth County, GA"	"13117"	2175
+	"Fulton County, GA"	"13121"	13579
+	"Gwinnett County, GA"	"13135"	11519
+	"Hall County, GA"	"13139"	2741
+	"Henry County, GA"	"13151"	2591
+	"Houston County, GA"	"13153"	2033
+	"Lowndes County, GA"	"13185"	1710
+	"Muscogee County, GA"	"13215"	3021
+	"Paulding County, GA"	"13223"	1609
+	"Richmond County, GA"	"13245"	3054
+	"Whitfield County, GA"	"13313"	1455
+	"Unidentified Counties, GA"	"13999"	42110
+	"Hawaii County, HI"	"15001"	2369
+	"Honolulu County, HI"	"15003"	13265
+	"Maui County, HI"	"15009"	1898
+	"Unidentified Counties, HI"	"15999"	888
+	"Ada County, ID"	"16001"	5126
+	"Bonneville County, ID"	"16019"	1969
+	"Canyon County, ID"	"16027"	3175
+	"Kootenai County, ID"	"16055"	1856
+	"Unidentified Counties, ID"	"16999"	10701
+	"Champaign County, IL"	"17019"	2399
+	"Cook County, IL"	"17031"	68848
+	"DeKalb County, IL"	"17037"	1204
+	"DuPage County, IL"	"17043"	10891
+	"Kane County, IL"	"17089"	6688
+	"Kankakee County, IL"	"17091"	1328
+	"Kendall County, IL"	"17093"	1624
+	"Lake County, IL"	"17097"	7718
+	"LaSalle County, IL"	"17099"	1288
+	"McHenry County, IL"	"17111"	3266
+	"McLean County, IL"	"17113"	2129
+	"Macon County, IL"	"17115"	1372
+	"Madison County, IL"	"17119"	3082
+	"Peoria County, IL"	"17143"	2684
+	"Rock Island County, IL"	"17161"	1970
+	"St. Clair County, IL"	"17163"	3422
+	"Sangamon County, IL"	"17167"	2314
+	"Tazewell County, IL"	"17179"	1551
+	"Will County, IL"	"17197"	7803
+	"Winnebago County, IL"	"17201"	3621
+	"Unidentified Counties, IL"	"17999"	22914
+	"Allen County, IN"	"18003"	5269
+	"Clark County, IN"	"18019"	1492
+	"Delaware County, IN"	"18035"	1188
+	"Elkhart County, IN"	"18039"	3188
+	"Hamilton County, IN"	"18057"	3867
+	"Hendricks County, IN"	"18063"	1760
+	"Johnson County, IN"	"18081"	1866
+	"Lake County, IN"	"18089"	5925
+	"La Porte County, IN"	"18091"	1337
+	"Madison County, IN"	"18095"	1509
+	"Marion County, IN"	"18097"	14495
+	"Monroe County, IN"	"18105"	1359
+	"Porter County, IN"	"18127"	1708
+	"St. Joseph County, IN"	"18141"	3488
+	"Tippecanoe County, IN"	"18157"	2387
+	"Vanderburgh County, IN"	"18163"	2223
+	"Vigo County, IN"	"18167"	1283
+	"Unidentified Counties, IN"	"18999"	29696
+	"Black Hawk County, IA"	"19013"	1781
+	"Johnson County, IA"	"19103"	1805
+	"Linn County, IA"	"19113"	2855
+	"Polk County, IA"	"19153"	7023
+	"Scott County, IA"	"19163"	2234
+	"Woodbury County, IA"	"19193"	1492
+	"Unidentified Counties, IA"	"19999"	22292
+	"Douglas County, KS"	"20045"	1328
+	"Johnson County, KS"	"20091"	7541
+	"Sedgwick County, KS"	"20173"	7291
+	"Shawnee County, KS"	"20177"	2276
+	"Wyandotte County, KS"	"20209"	2762
+	"Unidentified Counties, KS"	"20999"	17956
+	"Boone County, KY"	"21015"	1670
+	"Fayette County, KY"	"21067"	4044
+	"Hardin County, KY"	"21093"	1447
+	"Jefferson County, KY"	"21111"	10147
+	"Kenton County, KY"	"21117"	2319
+	"Warren County, KY"	"21227"	1665
+	"Unidentified Counties, KY"	"21999"	34679
+	"Ascension Parish, LA"	"22005"	1663
+	"Bossier Parish, LA"	"22015"	1881
+	"Caddo Parish, LA"	"22017"	3570
+	"Calcasieu Parish, LA"	"22019"	2877
+	"East Baton Rouge Parish, LA"	"22033"	6212
+	"Jefferson Parish, LA"	"22051"	6082
+	"Lafayette Parish, LA"	"22055"	3505
+	"Livingston Parish, LA"	"22063"	1905
+	"Orleans Parish, LA"	"22071"	5068
+	"Ouachita Parish, LA"	"22073"	2266
+	"Rapides Parish, LA"	"22079"	1822
+	"St. Tammany Parish, LA"	"22103"	3013
+	"Tangipahoa Parish, LA"	"22105"	1986
+	"Terrebonne Parish, LA"	"22109"	1760
+	"Unidentified Counties, LA"	"22999"	21082
+	"Androscoggin County, ME"	"23001"	1267
+	"Cumberland County, ME"	"23005"	2722
+	"Kennebec County, ME"	"23011"	1208
+	"Penobscot County, ME"	"23019"	1429
+	"York County, ME"	"23031"	1894
+	"Unidentified Counties, ME"	"23999"	4087
+	"Anne Arundel County, MD"	"24003"	6936
+	"Baltimore County, MD"	"24005"	9991
+	"Carroll County, MD"	"24013"	1696
+	"Cecil County, MD"	"24015"	1177
+	"Charles County, MD"	"24017"	1846
+	"Frederick County, MD"	"24021"	2824
+	"Harford County, MD"	"24025"	2720
+	"Howard County, MD"	"24027"	3564
+	"Montgomery County, MD"	"24031"	13203
+	"Prince George's County, MD"	"24033"	12321
+	"St. Mary's County, MD"	"24037"	1443
+	"Washington County, MD"	"24043"	1703
+	"Baltimore city, MD"	"24510"	8660
+	"Unidentified Counties, MD"	"24999"	5532
+	"Barnstable County, MA"	"25001"	1475
+	"Berkshire County, MA"	"25003"	1030
+	"Bristol County, MA"	"25005"	5676
+	"Essex County, MA"	"25009"	8544
+	"Hampden County, MA"	"25013"	5134
+	"Hampshire County, MA"	"25015"	1035
+	"Middlesex County, MA"	"25017"	17304
+	"Norfolk County, MA"	"25021"	7206
+	"Plymouth County, MA"	"25023"	5251
+	"Suffolk County, MA"	"25025"	9360
+	"Worcester County, MA"	"25027"	8589
+	"Unidentified Counties, MA"	"25999"	888
+	"Allegan County, MI"	"26005"	1366
+	"Bay County, MI"	"26017"	1028
+	"Berrien County, MI"	"26021"	1794
+	"Calhoun County, MI"	"26025"	1653
+	"Eaton County, MI"	"26045"	1177
+	"Genesee County, MI"	"26049"	4761
+	"Ingham County, MI"	"26065"	3262
+	"Jackson County, MI"	"26075"	1725
+	"Kalamazoo County, MI"	"26077"	3160
+	"Kent County, MI"	"26081"	8842
+	"Livingston County, MI"	"26093"	1793
+	"Macomb County, MI"	"26099"	9413
+	"Monroe County, MI"	"26115"	1501
+	"Muskegon County, MI"	"26121"	2075
+	"Oakland County, MI"	"26125"	13597
+	"Ottawa County, MI"	"26139"	3297
+	"Saginaw County, MI"	"26145"	2242
+	"St. Clair County, MI"	"26147"	1519
+	"Washtenaw County, MI"	"26161"	3690
+	"Wayne County, MI"	"26163"	23488
+	"Unidentified Counties, MI"	"26999"	21929
+	"Anoka County, MN"	"27003"	4278
+	"Dakota County, MN"	"27037"	5266
+	"Hennepin County, MN"	"27053"	16847
+	"Olmsted County, MN"	"27109"	2163
+	"Ramsey County, MN"	"27123"	7838
+	"St. Louis County, MN"	"27137"	1956
+	"Scott County, MN"	"27139"	1829
+	"Stearns County, MN"	"27145"	1993
+	"Washington County, MN"	"27163"	2804
+	"Wright County, MN"	"27171"	1760
+	"Unidentified Counties, MN"	"27999"	23100
+	"DeSoto County, MS"	"28033"	2143
+	"Harrison County, MS"	"28047"	2741
+	"Hinds County, MS"	"28049"	3343
+	"Jackson County, MS"	"28059"	1637
+	"Rankin County, MS"	"28121"	1847
+	"Unidentified Counties, MS"	"28999"	26683
+	"Boone County, MO"	"29019"	2079
+	"Clay County, MO"	"29047"	3036
+	"Franklin County, MO"	"29071"	1240
+	"Greene County, MO"	"29077"	3565
+	"Jackson County, MO"	"29095"	9348
+	"Jasper County, MO"	"29097"	1669
+	"Jefferson County, MO"	"29099"	2581
+	"St. Charles County, MO"	"29183"	4541
+	"St. Louis County, MO"	"29189"	11689
+	"St. Louis city, MO"	"29510"	4574
+	"Unidentified Counties, MO"	"29999"	30739
+	"Missoula County, MT"	"30063"	1264
+	"Yellowstone County, MT"	"30111"	2042
+	"Unidentified Counties, MT"	"30999"	9277
+	"Douglas County, NE"	"31055"	8715
+	"Lancaster County, NE"	"31109"	4069
+	"Sarpy County, NE"	"31153"	2542
+	"Unidentified Counties, NE"	"31999"	11353
+	"Clark County, NV"	"32003"	27139
+	"Washoe County, NV"	"32031"	5517
+	"Unidentified Counties, NV"	"32999"	3642
+	"Hillsborough County, NH"	"33011"	4178
+	"Merrimack County, NH"	"33013"	1432
+	"Rockingham County, NH"	"33015"	2667
+	"Strafford County, NH"	"33017"	1224
+	"Unidentified Counties, NH"	"33999"	2932
+	"Atlantic County, NJ"	"34001"	2968
+	"Bergen County, NJ"	"34003"	9499
+	"Burlington County, NJ"	"34005"	4422
+	"Camden County, NJ"	"34007"	6235
+	"Cumberland County, NJ"	"34011"	1992
+	"Essex County, NJ"	"34013"	10325
+	"Gloucester County, NJ"	"34015"	2935
+	"Hudson County, NJ"	"34017"	10437
+	"Hunterdon County, NJ"	"34019"	922
+	"Mercer County, NJ"	"34021"	4125
+	"Middlesex County, NJ"	"34023"	9241
+	"Monmouth County, NJ"	"34025"	5952
+	"Morris County, NJ"	"34027"	4717
+	"Ocean County, NJ"	"34029"	8537
+	"Passaic County, NJ"	"34031"	7004
+	"Somerset County, NJ"	"34035"	3278
+	"Sussex County, NJ"	"34037"	1189
+	"Union County, NJ"	"34039"	6823
+	"Warren County, NJ"	"34041"	968
+	"Unidentified Counties, NJ"	"34999"	1558
+	"Bernalillo County, NM"	"35001"	7920
+	"Dona Ana County, NM"	"35013"	2939
+	"Sandoval County, NM"	"35043"	1410
+	"San Juan County, NM"	"35045"	1819
+	"Santa Fe County, NM"	"35049"	1252
+	"Unidentified Counties, NM"	"35999"	10476
+	"Albany County, NY"	"36001"	3095
+	"Bronx County, NY"	"36005"	21493
+	"Broome County, NY"	"36007"	1977
+	"Chautauqua County, NY"	"36013"	1434
+	"Dutchess County, NY"	"36027"	2613
+	"Erie County, NY"	"36029"	10172
+	"Jefferson County, NY"	"36045"	2091
+	"Kings County, NY"	"36047"	41599
+	"Monroe County, NY"	"36055"	8178
+	"Nassau County, NY"	"36059"	14278
+	"New York County, NY"	"36061"	18139
+	"Niagara County, NY"	"36063"	2148
+	"Oneida County, NY"	"36065"	2512
+	"Onondaga County, NY"	"36067"	5258
+	"Ontario County, NY"	"36069"	1020
+	"Orange County, NY"	"36071"	4872
+	"Oswego County, NY"	"36075"	1199
+	"Queens County, NY"	"36081"	30452
+	"Rensselaer County, NY"	"36083"	1621
+	"Richmond County, NY"	"36085"	5367
+	"Rockland County, NY"	"36087"	5313
+	"St. Lawrence County, NY"	"36089"	1176
+	"Saratoga County, NY"	"36091"	2180
+	"Schenectady County, NY"	"36093"	1821
+	"Suffolk County, NY"	"36103"	15835
+	"Tompkins County, NY"	"36109"	815
+	"Ulster County, NY"	"36111"	1550
+	"Westchester County, NY"	"36119"	10641
+	"Unidentified Counties, NY"	"36999"	18425
+	"Alamance County, NC"	"37001"	1783
+	"Brunswick County, NC"	"37019"	1044
+	"Buncombe County, NC"	"37021"	2625
+	"Cabarrus County, NC"	"37025"	2457
+	"Catawba County, NC"	"37035"	1754
+	"Craven County, NC"	"37049"	1454
+	"Cumberland County, NC"	"37051"	5412
+	"Davidson County, NC"	"37057"	1749
+	"Durham County, NC"	"37063"	4231
+	"Forsyth County, NC"	"37067"	4340
+	"Gaston County, NC"	"37071"	2525
+	"Guilford County, NC"	"37081"	6096
+	"Harnett County, NC"	"37085"	1800
+	"Henderson County, NC"	"37089"	1067
+	"Iredell County, NC"	"37097"	1935
+	"Johnston County, NC"	"37101"	2268
+	"Mecklenburg County, NC"	"37119"	14860
+	"New Hanover County, NC"	"37129"	2312
+	"Onslow County, NC"	"37133"	4172
+	"Orange County, NC"	"37135"	1206
+	"Pitt County, NC"	"37147"	2163
+	"Randolph County, NC"	"37151"	1558
+	"Robeson County, NC"	"37155"	1773
+	"Rowan County, NC"	"37159"	1604
+	"Union County, NC"	"37179"	2359
+	"Wake County, NC"	"37183"	12865
+	"Wayne County, NC"	"37191"	1631
+	"Unidentified Counties, NC"	"37999"	31800
+	"Cass County, ND"	"38017"	2568
+	"Unidentified Counties, ND"	"38999"	8746
+	"Allen County, OH"	"39003"	1286
+	"Ashtabula County, OH"	"39007"	1120
+	"Butler County, OH"	"39017"	4588
+	"Clark County, OH"	"39023"	1626
+	"Clermont County, OH"	"39025"	2281
+	"Columbiana County, OH"	"39029"	1097
+	"Cuyahoga County, OH"	"39035"	14842
+	"Delaware County, OH"	"39041"	2179
+	"Fairfield County, OH"	"39045"	1695
+	"Franklin County, OH"	"39049"	19173
+	"Greene County, OH"	"39057"	1889
+	"Hamilton County, OH"	"39061"	10976
+	"Lake County, OH"	"39085"	2346
+	"Licking County, OH"	"39089"	1864
+	"Lorain County, OH"	"39093"	3390
+	"Lucas County, OH"	"39095"	5567
+	"Mahoning County, OH"	"39099"	2375
+	"Medina County, OH"	"39103"	1725
+	"Miami County, OH"	"39109"	1182
+	"Montgomery County, OH"	"39113"	6659
+	"Portage County, OH"	"39133"	1392
+	"Richland County, OH"	"39139"	1434
+	"Stark County, OH"	"39151"	4222
+	"Summit County, OH"	"39153"	6044
+	"Trumbull County, OH"	"39155"	2090
+	"Warren County, OH"	"39165"	2318
+	"Wayne County, OH"	"39169"	1531
+	"Wood County, OH"	"39173"	1380
+	"Unidentified Counties, OH"	"39999"	30993
+	"Canadian County, OK"	"40017"	1741
+	"Cleveland County, OK"	"40027"	2886
+	"Comanche County, OK"	"40031"	1814
+	"Oklahoma County, OK"	"40109"	12518
+	"Tulsa County, OK"	"40143"	9672
+	"Unidentified Counties, OK"	"40999"	24491
+	"Clackamas County, OR"	"41005"	4141
+	"Deschutes County, OR"	"41017"	1787
+	"Douglas County, OR"	"41019"	1096
+	"Jackson County, OR"	"41029"	2396
+	"Lane County, OR"	"41039"	3607
+	"Linn County, OR"	"41043"	1518
+	"Marion County, OR"	"41047"	4448
+	"Multnomah County, OR"	"41051"	9420
+	"Washington County, OR"	"41067"	6923
+	"Unidentified Counties, OR"	"41999"	10319
+	"Adams County, PA"	"42001"	1037
+	"Allegheny County, PA"	"42003"	13311
+	"Beaver County, PA"	"42007"	1701
+	"Berks County, PA"	"42011"	4754
+	"Blair County, PA"	"42013"	1326
+	"Bucks County, PA"	"42017"	6014
+	"Butler County, PA"	"42019"	1858
+	"Cambria County, PA"	"42021"	1322
+	"Centre County, PA"	"42027"	1277
+	"Chester County, PA"	"42029"	5503
+	"Cumberland County, PA"	"42041"	2645
+	"Dauphin County, PA"	"42043"	3371
+	"Delaware County, PA"	"42045"	6554
+	"Erie County, PA"	"42049"	3132
+	"Fayette County, PA"	"42051"	1437
+	"Franklin County, PA"	"42055"	1838
+	"Lackawanna County, PA"	"42069"	2202
+	"Lancaster County, PA"	"42071"	7263
+	"Lebanon County, PA"	"42075"	1589
+	"Lehigh County, PA"	"42077"	4193
+	"Luzerne County, PA"	"42079"	3168
+	"Lycoming County, PA"	"42081"	1202
+	"Mercer County, PA"	"42085"	1151
+	"Monroe County, PA"	"42089"	1416
+	"Montgomery County, PA"	"42091"	8905
+	"Northampton County, PA"	"42095"	2791
+	"Philadelphia County, PA"	"42101"	22106
+	"Schuylkill County, PA"	"42107"	1318
+	"Washington County, PA"	"42125"	1974
+	"Westmoreland County, PA"	"42129"	3167
+	"York County, PA"	"42133"	4932
+	"Unidentified Counties, PA"	"42999"	16590
+	"Kent County, RI"	"44003"	1636
+	"Providence County, RI"	"44007"	7391
+	"Washington County, RI"	"44009"	878
+	"Unidentified Counties, RI"	"44999"	1088
+	"Aiken County, SC"	"45003"	1993
+	"Anderson County, SC"	"45007"	2254
+	"Beaufort County, SC"	"45013"	2058
+	"Berkeley County, SC"	"45015"	2725
+	"Charleston County, SC"	"45019"	4994
+	"Dorchester County, SC"	"45035"	1819
+	"Florence County, SC"	"45041"	1696
+	"Greenville County, SC"	"45045"	6429
+	"Horry County, SC"	"45051"	3176
+	"Lexington County, SC"	"45063"	3201
+	"Pickens County, SC"	"45077"	1251
+	"Richland County, SC"	"45079"	5014
+	"Spartanburg County, SC"	"45083"	3560
+	"Sumter County, SC"	"45085"	1528
+	"York County, SC"	"45091"	2936
+	"Unidentified Counties, SC"	"45999"	13505
+	"Minnehaha County, SD"	"46099"	3048
+	"Pennington County, SD"	"46103"	1535
+	"Unidentified Counties, SD"	"46999"	7753
+	"Blount County, TN"	"47009"	1234
+	"Davidson County, TN"	"47037"	10325
+	"Hamilton County, TN"	"47065"	4287
+	"Knox County, TN"	"47093"	5359
+	"Montgomery County, TN"	"47125"	3475
+	"Rutherford County, TN"	"47149"	3958
+	"Shelby County, TN"	"47157"	13478
+	"Sullivan County, TN"	"47163"	1526
+	"Sumner County, TN"	"47165"	2123
+	"Washington County, TN"	"47179"	1341
+	"Williamson County, TN"	"47187"	2261
+	"Wilson County, TN"	"47189"	1469
+	"Unidentified Counties, TN"	"47999"	30849
+	"Bell County, TX"	"48027"	6500
+	"Bexar County, TX"	"48029"	28182
+	"Brazoria County, TX"	"48039"	4943
+	"Brazos County, TX"	"48041"	2904
+	"Cameron County, TX"	"48061"	7242
+	"Collin County, TX"	"48085"	10923
+	"Comal County, TX"	"48091"	1634
+	"Dallas County, TX"	"48113"	40131
+	"Denton County, TX"	"48121"	10043
+	"Ector County, TX"	"48135"	2991
+	"Ellis County, TX"	"48139"	2126
+	"El Paso County, TX"	"48141"	13521
+	"Fort Bend County, TX"	"48157"	9888
+	"Galveston County, TX"	"48167"	4218
+	"Grayson County, TX"	"48181"	1581
+	"Gregg County, TX"	"48183"	1859
+	"Guadalupe County, TX"	"48187"	1838
+	"Harris County, TX"	"48201"	73478
+	"Hays County, TX"	"48209"	2468
+	"Hidalgo County, TX"	"48215"	16086
+	"Jefferson County, TX"	"48245"	3783
+	"Johnson County, TX"	"48251"	2093
+	"Kaufman County, TX"	"48257"	1540
+	"Lubbock County, TX"	"48303"	4113
+	"McLennan County, TX"	"48309"	3528
+	"Midland County, TX"	"48329"	3034
+	"Montgomery County, TX"	"48339"	7338
+	"Nueces County, TX"	"48355"	5056
+	"Parker County, TX"	"48367"	1485
+	"Potter County, TX"	"48375"	1945
+	"Randall County, TX"	"48381"	1667
+	"Smith County, TX"	"48423"	3110
+	"Tarrant County, TX"	"48439"	28370
+	"Taylor County, TX"	"48441"	2097
+	"Tom Green County, TX"	"48451"	1722
+	"Travis County, TX"	"48453"	16304
+	"Webb County, TX"	"48479"	5356
+	"Wichita County, TX"	"48485"	1741
+	"Williamson County, TX"	"48491"	6433
+	"Unidentified Counties, TX"	"48999"	60347
+	"Cache County, UT"	"49005"	2363
+	"Davis County, UT"	"49011"	5878
+	"Salt Lake County, UT"	"49035"	17398
+	"Utah County, UT"	"49049"	11945
+	"Washington County, UT"	"49053"	2170
+	"Weber County, UT"	"49057"	3926
+	"Unidentified Counties, UT"	"49999"	7098
+	"Chittenden County, VT"	"50007"	1560
+	"Unidentified Counties, VT"	"50999"	4343
+	"Arlington County, VA"	"51013"	3166
+	"Chesterfield County, VA"	"51041"	3803
+	"Fairfax County, VA"	"51059"	14448
+	"Henrico County, VA"	"51087"	3997
+	"Loudoun County, VA"	"51107"	5307
+	"Prince William County, VA"	"51153"	6858
+	"Spotsylvania County, VA"	"51177"	1591
+	"Stafford County, VA"	"51179"	1665
+	"Alexandria city, VA"	"51510"	2857
+	"Chesapeake city, VA"	"51550"	2988
+	"Hampton city, VA"	"51650"	1640
+	"Newport News city, VA"	"51700"	2804
+	"Norfolk city, VA"	"51710"	3743
+	"Richmond city, VA"	"51760"	3111
+	"Virginia Beach city, VA"	"51810"	6110
+	"Unidentified Counties, VA"	"51999"	39215
+	"Benton County, WA"	"53005"	2670
+	"Clark County, WA"	"53011"	5560
+	"Cowlitz County, WA"	"53015"	1234
+	"King County, WA"	"53033"	25487
+	"Kitsap County, WA"	"53035"	3058
+	"Pierce County, WA"	"53053"	11539
+	"Skagit County, WA"	"53057"	1442
+	"Snohomish County, WA"	"53061"	9768
+	"Spokane County, WA"	"53063"	6043
+	"Thurston County, WA"	"53067"	3069
+	"Whatcom County, WA"	"53073"	2373
+	"Yakima County, WA"	"53077"	3994
+	"Unidentified Counties, WA"	"53999"	12753
+	"Berkeley County, WV"	"54003"	1386
+	"Kanawha County, WV"	"54039"	2068
+	"Unidentified Counties, WV"	"54999"	16351
+	"Brown County, WI"	"55009"	3418
+	"Dane County, WI"	"55025"	6178
+	"Fond du Lac County, WI"	"55039"	1080
+	"Kenosha County, WI"	"55059"	1911
+	"La Crosse County, WI"	"55063"	1268
+	"Marathon County, WI"	"55073"	1622
+	"Milwaukee County, WI"	"55079"	13915
+	"Outagamie County, WI"	"55087"	2368
+	"Racine County, WI"	"55101"	2400
+	"Rock County, WI"	"55105"	1937
+	"Sheboygan County, WI"	"55117"	1310
+	"Walworth County, WI"	"55127"	1055
+	"Washington County, WI"	"55131"	1381
+	"Waukesha County, WI"	"55133"	3703
+	"Winnebago County, WI"	"55139"	1916
+	"Unidentified Counties, WI"	"55999"	21579
+	"Unidentified Counties, WY"	"56999"	7765
+"Total"			3978497
+"---"
+"Dataset: Natality, 2007-2023"
+"Query Parameters:"
+"Year: 2015"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: Mar 26, 2025 7:17:26 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2007-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-current.html on Mar 26, 2025 7:17:26 PM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. 'Missing County' appears when county data is not available for a certain year. This occurs because the county did not meet"
+"minimum population standards and thus the data for the county was recoded to the ""Unidentified Counties"" category for the"
+"state of the county. More information: http://wonder.cdc.gov/wonder/help/natality.html#Locations."
+"2. Each birth record represents one liveborn infant."
+"3. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties""."
+"4. <p> As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the"
+"data for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because"
+"they did not meet minimum population standards. Houston County, AL (01069); Navajo County, AZ (04017); Faulkner County, AR"
+"(05045); Saline County, AR (05125); Bartow County, GA (13015); Carroll County, GA (13045); Columbia County, GA (13073); Coweta"
+"County, GA (13077); Douglas County, GA (13097); Fayette County, GA (13113); Forsyth County, GA (13117); Lowndes County, GA"
+"(13185); Paulding County, GA (13223); Whitfield County, GA (13313); Bonneville County, ID (16019); DeKalb County, IL (17037);"
+"Kendall County, IL (17093); Clark County, IN (18019); Douglas County, KS (20045); Boone County, KY (21015); Hardin County, KY"
+"(21093); Warren County, KY (21227); Ascension Parish, LA (22005); Bossier Parish, LA (22015); Livingston Parish, LA (22063);"
+"Cecil County, MD (24015); St. Mary's County, MD (24037); Scott County, MN (27139); Wright County, MN (27171); Franklin County,"
+"MO (29071); Missoula County, MT (30063); Sandoval County, NM (35043); Tompkins County, NY (36109); Brunswick County, NC (37019);"
+"Craven County, NC (37049); Harnett County, NC (37085); Henderson County, NC (37089); Miami County, OH (39109); Canadian County,"
+"OK (40017); Adams County, PA (42001); Dorchester County, SC (45035); Pennington County, SD (46103); Wilson County, TN (47189);"
+"Comal County, TX (48091); Guadalupe County, TX (48187); Hays County, TX (48209); Kaufman County, TX (48257); Parker County, TX"
+"(48367); Cache County, UT (49005); Washington County, UT (49053); Spotsylvania County, VA (51177); Stafford County, VA (51179);"
+"Cowlitz County, WA (53015); Berkeley County, WV (54003); Fond du Lac County, WI (55039); Walworth County, WI (55127). </p> <p>"
+"After 2013 the data for the following counties was recoded to the ""Unidentified Counties"" category within the state of the"
+"county because they did not meet minimum population standards. Cape May County, NJ (34009); Portsmouth city, VA (51740). </p>"
+"5. Dade County, Florida (FIPS code 12025) was renamed Miami-Dade County (FIPS code 12086) effective November 13, 1997. The area"
+"is coded to Miami-Dade (12086) after 2002 and Dade (12025) for earlier years in other natality datasets."
+"6. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore County (FIPS code 24005)."
+"7. The independent city of St. Louis, Missouri (FIPS code 29510) is reported separately from St. Louis County (FIPS code 29189)."
+"8. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"9. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"10. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"11. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"12. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."

@@ -6,7 +6,7 @@ import os, gzip
 from pathlib import Path
 
 # Path to the data files
-pa = Path("/home/kshedden/data/Teaching/natality")
+pa = Path("C:/Users/16343/Desktop/Stats-504-materials/natality")
 
 # Create a long form version of the birth data.
 dl = []
@@ -26,7 +26,7 @@ births = births[~births["County"].str.contains("Unidentified")]
 # Subset the demographics file to 2016.  This is a large file
 # and takes time, so only run this once and save the result
 # for future runs.
-if False:
+if True:
     f = pa / "us.1990_2023.20ages.adjusted.txt.gz"
     g = pa / "2016ages.txt.gz"
     with gzip.open(g, "w") as out:
